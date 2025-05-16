@@ -6,10 +6,7 @@
 
 ## 👨‍💻 Authors
 
-- **Tehreem Zafar** (22i-1630)  
-- **Umar Murtaza** (22i-7431)  
-- **Course:** CY-A — Computer Organization & Assembly Language  
-- **Project:** Final Semester Project
+- **Tehreem Zafar**
 
 ---
 
